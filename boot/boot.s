@@ -1,9 +1,9 @@
 /*Assembly boot variables and bootstrap code for Ladakh Kernel
-File Name: boot.s
-Authors: Aryan Karamtoth
-Last Revision: 13 Dec 2024
-Version: 1.0
-License: GNU GPL 3.0
+        File Name: boot.s
+        Authors: Aryan Karamtoth
+        Last Revision: 13 Dec 2024
+        Version: 1.0
+        License: GNU GPL 3.0
 */
 
 /*constant declaration for multiboot header */
